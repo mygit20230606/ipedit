@@ -1,0 +1,9 @@
+[project]
+name = "ipedit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "wmi>=1.5.1",
+]
